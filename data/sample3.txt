@@ -1,0 +1,6 @@
+abcd
+acbd
+abcefbcd
+abcefcbd
+acbefbcd
+acbefbcefcbd

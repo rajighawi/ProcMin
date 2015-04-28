@@ -1,0 +1,8 @@
+ae	5
+abce	10
+acbe	10
+abe	1
+ace	1
+ade	10
+adde	2
+addde	1
