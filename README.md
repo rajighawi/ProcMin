@@ -1,4 +1,4 @@
-# ProcMin-0.0.5
+# ProcMin
 
 ### What is ProcMin?
 ProcMin is an open source Java project that can do basic process mining techniques.
@@ -9,17 +9,16 @@ Currently, ProcMic can:
 * Extract the footprint of the event log.
 * Extract the direct succession matrix.
 * Extract the dependency matrix.
-* Mining a Petri Net (Workflow Net) from the log using Alpha algorithm.
-* Mining a dependency graph from the log (given thresholds).
+* Mine a Petri Net (Workflow Net) from the log using `Alpha` algorithm.
+* Mine a dependency graph from the log (given thresholds).
 
 ### How to get started?
-* run Main.java in main package
-* an interface (GUI) will launch
-* start using the interface, it's simple and easy to use.
+Run `Main.java` in `main` package, this will launch a GUI that is simple and easy to use.
+
 
 ### Dependencies
 ProcMin requires the following Java APIs:
-* Guava
-* JUNG
+* Guava: https://github.com/google/guava/wiki
+* JUNG: http://jung.sourceforge.net/
 
-so remember to include those libraries in the build path
+
